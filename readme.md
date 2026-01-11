@@ -124,3 +124,5 @@ MIT License - Feel free to use this for learning!
 - Epoch 5/5
     ✅ Loss: 0.2505 | Train: 89.64% | Test: 78.47%
 - ✨ Training complete! Final test accuracy: 78.47%
+<img width="2174" height="886" alt="image" src="https://github.com/user-attachments/assets/4a8d1d0b-9c47-427c-b9d0-1aca77659e86" />
+
